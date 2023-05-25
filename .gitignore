@@ -1,0 +1,5 @@
+#JS specific
+node_modules
+
+#Misc
+.DS_Store
