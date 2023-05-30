@@ -1,0 +1,26 @@
+{
+  "name": "oneclick-ds",
+  "displayName": "OneClick DS",
+  "description": "One click install for common Data Science extensions.",
+  "publisher": "kenf1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenf1/WebDev-Intro"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "reditorsupport.r",
+    "ms-toolsai.jupyter",
+    "quarto.quarto",
+    "alexcvzz.vscode-sqlite",
+    "formulahendry.code-runner",
+    "kevinrose.vsc-python-indent"
+  ]
+}
