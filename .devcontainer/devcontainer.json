@@ -28,7 +28,10 @@
 				"pengbo.quick-html-template",
 				"ms-vscode.live-server"
 				//"ms-vscode.vscode-typescript-next"
-			]
+			],
+			"settings": {
+				"code-runner.enableAppInsights": false
+			}
 		}
 	}
 
